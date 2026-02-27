@@ -6,6 +6,7 @@
 
 _**Herramienta orientada a la extracción y procesamiento de modelos 3D procedentes de Google Maps/Google Earth**_
 
+https://developers.google.com/maps/documentation/directions/get-api-key?hl=es
 
 </header>
    
